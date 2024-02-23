@@ -1,5 +1,5 @@
 /**
- * Adds two numbers together.
+ * Adds two numbers together. Some text for test.
  *
  * @param x First argument.
  * @param y Second argument.
