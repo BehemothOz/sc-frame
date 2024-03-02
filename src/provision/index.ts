@@ -1,0 +1,1 @@
+export { AideNodeFactory } from './factory';
