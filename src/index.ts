@@ -1,1 +1,1 @@
-export { add } from './add';
+export { Blank } from './blank';
