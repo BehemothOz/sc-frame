@@ -1,6 +1,6 @@
 # Aide -
 
-Aide - это ...
+Aide - ...
 
 ```js
 const a = 100;
@@ -9,22 +9,22 @@ const b = 200;
 console.log(a + b);
 ```
 
-## Опции
+## Options
 
-| Параметр          | Описание                                                                                       |
-| ----------------- | ---------------------------------------------------------------------------------------------- |
-| **node**          | Обязательный параметр, ссылка на `HTMLVideoElement` or `HTMLCanvasElement`                     |
-| **mime**          | 'png', 'jpeg', 'jpg', 'webp'                                                                   |
-| **quality**       | Качество изображения, применяется для 'jpeg' и 'webp' (опционально, значение по умолчанию: 1). |
-| **name**          | Название создаваемого изображения (опционально)                                                |
-| **onReadyFrame**  | Callback при готовности изображения (см. [FrameInfo](#frameinfo)).                             |
-| **downloadAfter** | Скачивать изображение после создания, конфликтует с onReadyFrame.                              |
+| property          | description                               |
+| ----------------- | ----------------------------------------- |
+| **node**          | `HTMLVideoElement` or `HTMLCanvasElement` |
+| **mime**          | 'png', 'jpeg', 'jpg', 'webp'              |
+| **quality**       | desc                                      |
+| **name**          | desc                                      |
+| **onReadyFrame**  | Callback (см. [FrameInfo](#frameinfo)).   |
+| **downloadAfter** | desc                                      |
 
 ## FrameInfo
 
-Интерфейс, представляющий информацию о созданном изображении.
+An interface that provides information about the created image.
 
--   **name**: Название изображения.
--   **width**: Ширина изображения.
--   **height**: Высота изображения.
--   **blob**: Blob, представляющий изображение.
+-   **name**: space.
+-   **width**: space.
+-   **height**: space.
+-   **blob**: space.
