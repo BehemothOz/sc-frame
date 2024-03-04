@@ -2,8 +2,11 @@
 
 Aide - это ...
 
-```
-    const a = 100;
+```js
+const a = 100;
+const b = 200;
+
+console.log(a + b);
 ```
 
 ## Опции
