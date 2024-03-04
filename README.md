@@ -1,4 +1,4 @@
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+## Опции
+| Параметр  | Описание  |
+|--|--|
+| **node** | Обязательный параметр, ссылка на тег видео или канваса. |
